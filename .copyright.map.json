@@ -1,0 +1,7 @@
+[
+    "repo/eglexternalplatform/interface/eglexternalplatformversion.h",
+    "repo/eglexternalplatform/interface/eglexternalplatform.h",
+    "repo/eglexternalplatform/samples/sample-egl-client.c",
+    "repo/eglexternalplatform/samples/sample-egl-server.c",
+    "repo/eglexternalplatform/samples/libsample-egl-platform.c"
+]

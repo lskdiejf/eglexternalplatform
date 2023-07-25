@@ -1,0 +1,10 @@
+#!/bin/sh
+
+
+#
+#
+#
+cd repo
+tar -czvf eglexternalplatform.tar.gz eglexternalplatform
+cd ..
+mv repo/eglexternalplatform.tar.gz .
